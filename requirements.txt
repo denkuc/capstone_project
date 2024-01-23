@@ -1,0 +1,14 @@
+pandas==2.0.1
+lightkurve==2.4.0
+astropy==5.3
+wotan==1.10
+numpy==1.24.4
+requests==2.31.0
+beautifulsoup4==4.11.1
+dash==2.10.2
+plotly==5.14.1
+dash-bootstrap-components==1.5.0
+scikit-learn==1.2.2
+tqdm==4.65.0
+openpyxl==3.1.2
+ipykernel==6.22.0
